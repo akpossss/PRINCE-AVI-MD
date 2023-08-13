@@ -1,0 +1,38 @@
+{
+  "name": "PRINCE-AVI-MD",
+  "website": "AVI",
+  "description": "Subscribe MY YOUTUBE CHANNEL AVI NETHUNTER",
+  "repository": "https://github.com/avishka33/PRINCE-AVI-MD",
+  "logo": " https://avatars.githubusercontent.com/u/134716496?v=4.jpg",
+  "success_url": "https://github.com/avishka33/PRINCE-AVI-MD",
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "sinhala",
+    "whatsapp",
+    "termux",
+    "shadow",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-md",
+    "prince avi",
+    "avi-bot",
+    "prince avi-bot-md"],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
+}

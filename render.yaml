@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: PRINCE-AVI-MD
+    env: docker
+    region: sri lanka
+    plan: free
