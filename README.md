@@ -3,7 +3,7 @@
 </p> 
  
 <p align="center"> 
-<u> 💖 PRINE-AVI-MD💖</u>
+<u> 💖 PRINCE-AVI-MD💖</u>
 </p>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/134716496?v=4.jpg" width="300" height="300"/>
