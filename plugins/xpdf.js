@@ -3,7 +3,11 @@ import PDFDocument from 'pdfkit';
 import {extractImageThumb} from '@whiskeysockets/baileys';
 const handler = async (m, {conn, text, usedPrefix, command, args}) => {
   if (!db.data.chats[m.chat].modohorny && m.isGroup) throw '* +18 විධානය ආක්‍රියකර ඇත. #enable modohorny*';
-  if (!text) throw `*පෙල ඇතුලත්කර නොමැත. Example : ${usedPrefix + command} miku*`;
+  if (!text) throw `  ━━━━━━━━━━━━━━
+  පෙල ඇතුලත්කර නොමැත
+  ━━━━━━━━━━━━━━
+  Example : ${usedPrefix + command} miku
+  ━━━━━━━━━━━━━━`;
   try {
     m.reply(global.wait);
     const res = await fetch(`https://api.lolhuman.xyz/api/nhentaisearch?apikey=${lolkeysapi}&query=${text}`);
@@ -21,7 +25,9 @@ const handler = async (m, {conn, text, usedPrefix, command, args}) => {
     const imagepdf = await toPDF(pages);
     await conn.sendMessage(m.chat, {document: imagepdf, jpegThumbnail, fileName: data.title.english + '.pdf', mimetype: 'application/pdf'}, {quoted: m});
   } catch {
-    throw `*දෝශයක් නැවත උත්සාහකරන්න*`;
+    throw `  ━━━━━━━━━━━━━━
+    *දෝශයක් නැවත උත්සාහකරන්න*
+    ━━━━━━━━━━━━━━`;
   }
 };
 handler.command = /^(xpdf)$/i;
