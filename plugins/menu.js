@@ -31,6 +31,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┗━━━━━━━━━━━━━━
 
 🗡.video
+🗡.song
+🗡.fb
 
 
 *_OTHER COMMAND COMMING SOON
