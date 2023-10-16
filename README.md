@@ -3,7 +3,7 @@
 </p> 
  
 <p align="center"> 
-<u> 💖 PRINCE-AVI-MD💖</u>
+<u>🗡️PRINCE-AVI-MD🗡️</u>
 </p>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/134716496?v=4.jpg" width="300" height="300"/>
@@ -26,13 +26,13 @@
 
 # 
 
-### Please Give One Star ✨ & [follow for me notify my updates 💗] (https://github.com/avishka33)
+### Please Give One Star ✨ & [follow for me notify my updates 🗡️] (https://github.com/avishka33)
 
 <b>Version -->1</b>
 # 
 
 
-  💖Prince avi md 💖 whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+  🗡️Prince avi md🗡️ whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -56,7 +56,7 @@
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 
 
-[`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
+[`Deploy on Railway`](https://railway.app?referralCode=)
 
 [`Deploy on Koyeb`](https://app.koyeb.com/)
 
@@ -127,7 +127,7 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING 💖Prince avi md 💖
+THANAKS FOR USNING 🗡️Prince avi md🗡️
 
 * [🧑‍💻 Join AVI Support Group 🧑‍💻](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
 
@@ -140,7 +140,7 @@ THANAKS FOR USNING 💖Prince avi md 💖
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://github.com/avishka33)
 
-<h1>💗</h1> 
+
 <b>Thanks For</b> -
 
- 💖AVISHKA SHAVINDA 💖
+ 🗡️AVISHKA SHAVINDA🗡️
